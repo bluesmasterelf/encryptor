@@ -1,4 +1,4 @@
-"""Variation of aes encryption method for the purposes of the author's learning"""
+"""Variation of xor encryption method for the purposes of the author's learning"""
 
 import sys
 
